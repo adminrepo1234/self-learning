@@ -1,0 +1,2 @@
+Este es un segundo archivo
+Le agrego una línea después de comprometerlo con git add
