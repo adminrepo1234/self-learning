@@ -1,1 +1,0 @@
-Hola, esto es para un archivo de prueba en GIT
